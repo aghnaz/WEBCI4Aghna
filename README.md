@@ -5,7 +5,8 @@ dan apabila gagal login, maka akan keluar halaman seperti login
 setelah berhasil login, maka kita akan langsung tertuju pada halaman data pelanggan
 ![alt text](https://github.com/aghnaz/WEBCI4Aghna/blob/master/daftarpelanggan.JPG)
 pada sidebar terdapat beberapa menu dan sub menu, beberapa sub menunya
-![alt text](https://github.com/aghnaz/WEBCI4Aghna/blob/master/menu-barang.JPG)  ![alt text](https://github.com/aghnaz/WEBCI4Aghna/blob/master/menu-pelanggan.JPG)
+![alt text](https://github.com/aghnaz/WEBCI4Aghna/blob/master/menu-barang.JPG)  
+![alt text](https://github.com/aghnaz/WEBCI4Aghna/blob/master/menu-pelanggan.JPG)
 pada pelanggan, terdapat dua sub menu yaitu 'data pelanggan' dan 'daftar pelanggan', apabila kita menekan data pelanggan maka akan keluar halaman seperti saat kita setelah me-login, kita dapat mengedit atau men delete pelanggan seperti berikut
 ![alt text](https://github.com/aghnaz/WEBCI4Aghna/blob/master/edit-pelanggan.JPG)
 apabila edit pelanggan barhasil, maka akan keluar notifikasi seperti berikut
